@@ -5,9 +5,8 @@
 Dedicated Data Analyst with 3.8 years of experience in collecting, cleaning, analysing, and interpreting large datasets to drive business decisions. Proficient in data manipulation and data visualisation techniques using tools such as Python, MySQL and MS Excel. Demonstrated ability to extract actionable insights from complex data sets, improving operational efficiency and strategic decision-making.
 
 ### Professional Experience
-#### Data analyst ( May 2021 - Dec 2024 )
-#### GI Staffing Service Pvt. Ltd. 
-#### Client: CHEVROLET SALES INDIA PVT LTD.
+#### Data analyst @ GI Staffing Service Pvt. Ltd. ( May 2021 - Dec 2024 )
+##### Client: CHEVROLET SALES INDIA PVT LTD.
 
 - Designed and managed quality dashboards in MS Excel to monitor sales operations and reduce issue recurrence by 80%.
 - Engaged with SAP and COGNOS to gather data and leveraged MySQL and Power Query in Excel to conduct incisive analysis and business enhancements.
