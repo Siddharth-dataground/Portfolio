@@ -2,7 +2,9 @@
 ##### Skills: MS Excel, Python, MySQL
 
 ### A small intro:
-Dedicated Data Analyst with 3.8 years of experience in collecting, cleaning, analysing, and interpreting large datasets to drive business decisions. Proficient in data manipulation and data visualisation techniques using tools such as Python, MySQL and MS Excel. Demonstrated ability to extract actionable insights from complex data sets, improving operational efficiency and strategic decision-making.
+MIS and reporting professional with 3.7 years of experience in after-sales operations, specializing in warranty and
+field action reporting. Skilled in Excel, MySQL, and Python, with experience in data quality monitoring, large
+datasets, and operational reporting.
 
 ### Professional Experience
 #### Data analyst @ GI Staffing Service Pvt. Ltd. ( May 2021 - Dec 2024 )
